@@ -1,11 +1,11 @@
 #=================================================
 # Description: Build OpenWrt using GitHub Actions
 # Lisence: MIT
-# Author: cchen
-# Youtube Channel:cchen
+# Author: CCHEN
+# Youtube Channel:88888
 #=================================================
 
-name: Build_Redmi_AC2100
+name: Redmi_AC2100
 
  Add a button to trigger the workflow
 on: 
